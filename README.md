@@ -5,7 +5,6 @@ Angabe befindet sich auf dem Elearn, aber hier in "unformatierter Form":
 _________________________________________________________________________
 
 Laden Sie sich das Unity-Projekt herunter und stellen Sie sicher, dass es nach dem Download einwandfrei starten lässt. 
-Das Projekt befindet sich auf Github: [URL] 
 
 Im Projekt ist ein sogenanntes “Target” enthalten, MRTK und Project Settings sind bereits eingestellt. 
 
